@@ -1,1 +1,1 @@
-print("Hello to CS 384")
+print("Hello World")
